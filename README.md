@@ -60,7 +60,7 @@ Em um mundo conectado e globalizado, a geolocalização se torna cada vez mais e
 
 1. Faça um fork deste repositório.
 2. Crie uma branch com o padrão `seu-nome-sobrenome`.
-3. Envie um email `suporte@mabiti.com.br` informando que o teste foi concluído.
+3. Envie um email `joao.goncalves@mabiti.com` informando que o teste foi concluído.
 4. Aguarde nosso feedback.
 
 ---
